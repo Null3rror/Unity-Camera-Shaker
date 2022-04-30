@@ -1,0 +1,16 @@
+{
+    "name": "CameraShake",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6d972247d263d6c44ab6a375e2d151c7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
