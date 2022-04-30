@@ -1,4 +1,5 @@
 # Unity-Camera-Shaker
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Null3rror.Unity-Camera-Shaker)
 
 ### A simple, clean camera shaker for Unity which affects the **position** and **rotation** of the camera.
 This package is refactored version of [EZ-Camera-Shake-Unity](https://github.com/andersonaddo/EZ-Camera-Shake-Unity). Now it's easier (pun intended) to read and understand what it does, therefore it's way easier to use and modify.
