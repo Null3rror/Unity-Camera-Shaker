@@ -1,5 +1,5 @@
 {
-    "name": "com.Null3rror.Unity-Camera-Shaker",
+    "name": "com.null3rror.unity-camera-shaker",
     "version": "1.0.0",
     "displayName": "Unity Camera Shaker",
     "description": "This package is refactored version of EZ-Camera-Shake-Unity. Now it's easier (pun intended) to read and understand what it does, therefore it's way easier to use and modify.",
